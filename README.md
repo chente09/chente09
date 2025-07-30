@@ -8,7 +8,7 @@
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:newexperiencesoftw@vnenger.com)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://vnenger.com/)
   
-  📍 **Quito, Ecuador** | 🌟 **+3 años de experiencia**
+  📍 **Quito, Ecuador** | 🌟 **+2 años de experiencia**
   
 </div>
 
