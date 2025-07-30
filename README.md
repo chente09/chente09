@@ -131,6 +131,8 @@
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chente09&layout=compact&theme=radical&hide_border=true)
   
   ![GitHub Streak](https://streak-stats.demolab.com/?user=chente09&theme=radical&hide_border=true)
+
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chente09&theme=react-dark&hide_border=true)
   
 </div>
 
