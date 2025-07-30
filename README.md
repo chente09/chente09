@@ -42,7 +42,9 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 
 ### ⚙️ **Backend Development**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -128,7 +130,7 @@
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chente09&layout=compact&theme=radical&hide_border=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chente09&theme=radical&hide_border=true)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=chente09&theme=radical&hide_border=true)
   
 </div>
 
@@ -138,7 +140,7 @@
 
 ```python
 especialidades = {
-    "frontend": ["React", "Angular", "React Native", "Flutter"],
+    "frontend": ["React", "Angular", "React Native", "Flutter", "Tailwind CSS", "Ant Design"],
     "backend": ["Node.js", "Django", "Express", "API REST"],
     "mobile": ["React Native", "Flutter", "Apps Híbridas"],
     "ml_data": ["Pandas", "NumPy", "Scikit-learn", "TensorFlow", "PyTorch"],
