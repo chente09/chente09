@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Nénger Coral Vicente
+# ¡Hola! 👋 Soy Vicente Nenger
 
 <div align="center">
   
@@ -6,7 +6,7 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:newexperiencesoftw@vnenger.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)]([https://vnenger.com/])
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://vnenger.com/)
   
   📍 **Quito, Ecuador** | 🌟 **+3 años de experiencia**
   
@@ -16,13 +16,14 @@
 
 ## 🎯 Sobre Mí
 
-**Desarrollador Full-Stack** especializado en soluciones empresariales con experiencia práctica en **automatización de procesos** y **Machine Learning**. Me apasiona crear aplicaciones que resuelvan problemas reales y optimicen la productividad empresarial.
+**Tecnólogo en Desarrollo de Software** especializado en soluciones Full-Stack con experiencia práctica en automatización de procesos legales y administrativos. Combino sólidas competencias técnicas con liderazgo de equipos y mantenimiento de hardware, ofreciendo soluciones integrales que optimizan la productividad empresarial.
 
 - 🔭 Actualmente trabajando en **automatización de procesos legales** en GESTIUM
 - 🌱 Especializándome en **Machine Learning** con Python nativo
 - 👨‍💼 **Líder técnico** con experiencia en gestión de equipos
 - 💡 Enfocado en **soluciones innovadoras** y **arquitecturas escalables**
 - 🎓 **Tecnólogo en Desarrollo de Software** - ITSQMET
+- 🌐 **Portafolio personal**: [vnenger.com](https://vnenger.com/)
 
 ---
 
