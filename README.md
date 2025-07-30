@@ -113,7 +113,7 @@
 - 🖥️ **Soporte integral** de hardware y software
 - ⚙️ **Desarrollo de intranet** corporativa
 
-### 💻 **Freelance Full-Stack & ML Engineer**
+### 💻 **Freelance Full-Stack & ML Developer**
 **Proyectos Independientes** | *2025 - Presente*
 - 🚀 **Desarrollo web y móvil** multiplataforma
 - 🤖 **Implementación de IA** en proyectos empresariales
